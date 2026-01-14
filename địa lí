@@ -1,13 +1,9 @@
-<section class="intro">
-    <h2>Giới thiệu môn Địa lí</h2>
-    <p>
-        Địa lí là môn học giúp học sinh tìm hiểu về Trái Đất, các thành phần tự nhiên,
-        dân cư và những hoạt động kinh tế – xã hội của con người.
-        Thông qua môn học, học sinh hiểu được mối quan hệ giữa con người và môi trường,
-        từ đó nâng cao ý thức bảo vệ thiên nhiên và sử dụng hợp lý tài nguyên.
-    </p>
-    <p>
-        Môn Địa lí còn rèn luyện cho học sinh các kỹ năng quan trọng như đọc bản đồ,
-        phân tích biểu đồ, xử lí số liệu và vận dụng kiến thức vào thực tiễn cuộc sống.
-    </p>
+<section style="background:#e3f2fd;padding:20px;border-radius:10px">
+<h2 style="color:#1e90ff">Giới thiệu môn Địa lí</h2>
+<p>
+Địa lí là môn học giúp học sinh tìm hiểu về Trái Đất, các thành phần tự nhiên,
+dân cư và hoạt động kinh tế – xã hội của con người.
+Môn học giúp hiểu rõ mối quan hệ giữa con người và môi trường,
+từ đó hình thành ý thức bảo vệ môi trường và sử dụng hợp lí tài nguyên.
+</p>
 </section>
