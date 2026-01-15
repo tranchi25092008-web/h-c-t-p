@@ -1,7 +1,7 @@
 <section class="gioi-thieu">
     <h2>👤 Giới thiệu bản thân</h2>
     <p>
-        Tôi là <b>...</b>, học sinh trường <b>THPT Sơn Dương</b>.
+        Tôi là <b>Trần Thị Chi</b>, học sinh trường <b>THPT Sơn Dương</b>.
         Đối với tôi, việc học tập không chỉ dừng lại ở việc tiếp thu kiến thức trên lớp
         mà còn là quá trình khám phá và rèn luyện tư duy qua các môn học khác nhau.
     </p>
